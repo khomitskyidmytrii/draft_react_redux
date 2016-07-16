@@ -1,0 +1,1 @@
+Just a start app using Redux and ReactJS along with some other libraries.
